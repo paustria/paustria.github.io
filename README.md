@@ -7,3 +7,5 @@ Phily Austria can code! :)
 **Projects**
 
 **Code**
+
+**Thank you page**
