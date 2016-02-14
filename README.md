@@ -6,6 +6,6 @@ Phily Austria can code! :)
 
 **Projects**
 
-**Code**
+**Code** - browserify, grunt, MEAN
 
 **Thank you page**
