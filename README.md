@@ -8,4 +8,4 @@ Phily Austria can code! :)
 
 **Code** - browserify, grunt, MEAN
 
-**Thank you page**
+**Thank you page** Pobsit, Achiraya, Ben, Sunil, Vikki, Sonny, Drew, Victor
