@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/paustria/paustria.github.io/issues"
   },
-  "homepage": "https://github.com/paustria/paustria.github.io#readme"
+  "homepage": "https://github.com/paustria/paustria.github.io#readme",
+  "devDependencies": {
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
 }
