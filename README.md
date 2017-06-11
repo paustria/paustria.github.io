@@ -5,7 +5,22 @@ Phily Austria can code! :)
 **About** - Resume, Linkedin
 
 **Projects**
+CTS
+Groupthai
 
-**Code** - browserify, grunt, MEAN
+**Code**
 
-**Thank you page** Mom, Achiraya, Pobsit, Ben, Sunil, Steve, Somjit, Vikki, Sonny, Drew, Victor
+**Thank you page**
+Mom - CS path
+Achiraya - Made me a better person
+Pobsit - Thinking process
+Ben - Opportunity
+Sunil - Diligence
+Steve - Happy
+Somjit - Kindness
+Vikki - Landed me back to the programming
+Sonny - Confidence
+Drew - Explore front end
+Victor - Sincerity
+Viriyoung - Meditation
+Cooper - Investment & SE
