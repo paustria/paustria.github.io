@@ -2,7 +2,11 @@
 Phily Austria can code! :)
 
 ## Planning
-**About** - Resume, Linkedin
+**About** - 
+
+Resume,
+
+Linkedin https://www.linkedin.com/in/phily-austria-4138aa41/
 
 **Projects**
 CTS
