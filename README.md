@@ -31,6 +31,8 @@ Somjit - Kindness
 
 Vikki - Landed me back to the programming
 
+Jeremy - Best deal
+
 Sonny - Confidence
 
 Drew - Explore front end
